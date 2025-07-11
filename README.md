@@ -1,12 +1,10 @@
-# React + Vite
+# GMUN Website for communiquè
+This website is for task 1 and is a basic website made using react js and framer motion <br>
+Here's a picture of the website <br>
+![Image](https://res.cloudinary.com/dzwxshzzl/image/upload/v1752273635/Screenshot_2025-07-12_at_4.08.43_AM_woojus.png)
+![Website Image 2](https://res.cloudinary.com/dzwxshzzl/image/upload/v1752273628/Screenshot_2025-07-12_at_4.09.15_AM_c7fweb.png)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Quick Set Up Guide 
+- Clone the repo
+- `npm i` all of the dependencies
+- `npm run dev` for starting the website
